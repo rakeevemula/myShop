@@ -1,5 +1,4 @@
-[
-  {
+{
     "userId": test1,
     "email": tes1t@gmail.com,
   },
@@ -18,5 +17,4 @@
   {
     "userId": test5,
     "email": test5@gmail.com,
-  },
- ]
+  }
