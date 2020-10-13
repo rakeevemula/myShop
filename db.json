@@ -1,22 +1,14 @@
 [
   {
-    "userId": "test1",
-    "email": "tes1t@gmail.com",
+    "id": 1,
+    "title": "Post 1"
   },
   {
-    "userId": "test2",
-    "email": "test2@gmail.com",
+    "id": 2,
+    "title": "Post 2"
   },
   {
-    "userId": "test3",
-    "email": "test3@gmail.com",
-  },
-  {
-    "userId": "test4",
-    "email": "test4@gmail.com",
-  },
-  {
-    "userId": "test5",
-    "email": "test5@gmail.com",
-  },
+    "id": 3,
+    "title": "Post 3"
+  }
 ]
